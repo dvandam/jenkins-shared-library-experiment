@@ -7,5 +7,5 @@ class Foo {
         this.bar = bar
     }
 
-    def echoBar = sh("echo '${this.bar}'")
+//    def echoBar = sh("echo '${this.bar}'")
 }
